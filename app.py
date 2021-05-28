@@ -2,19 +2,29 @@ import streamlit as st
 import cv2
 import matplotlib.pyplot as plt
 # from deepface import DeepFace
-header  = st.beta_container()
-input = st.beta_container()
-pred = st.beta_container()
+import streamlit as st
+import test
 
-# Write something in a container
+header  = st.beta_container()
+inp = st.beta_container()
+pred = st.beta_container()
 
 with header:
     st.title('Emotion Detection and Song Recommendation')
     st.text('Aim : To detect the emotion of the person and predict a song')
 
-with input:
+with inp:
     st.title("Taking the face of the user as input")
     faceCascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    page = st.sidebar.selectbox("Input or Predict", ("Input", "Predict"))
+
+    if page == "Input":
+        test.take_input()
+#else:
+    #show_explore_page()
+
+
+'''
 # 1.creating a video object
 video = cv2.VideoCapture(0) 
 # 2. Variable
@@ -50,4 +60,4 @@ cv2.destroyAllWindows()
 
 #     st.body("Your emotion is",predictions)  
 
-
+'''
