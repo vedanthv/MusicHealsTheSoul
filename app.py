@@ -59,6 +59,6 @@ with pred:
 
     predictions = DeepFace.analyze(img)
 
-    st.body("Your emotion is",predictions)  
+    st.text("Your emotion is {}".format(predictions['dominant_emotion']))  
 
 
