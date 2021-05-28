@@ -37,7 +37,7 @@ showPic = cv2.imwrite("photo.jpg",frame)
 print(showPic)
 # 8. shutdown the camera
 video.release()
-cv2.destroyAllWindows
+cv2.destroyAllWindows()
 
 
 # with pred():
