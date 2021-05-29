@@ -32,7 +32,8 @@ Make sure you have all the dependencies mentioned in requirements.txt
 - Go to the terminal and run the command `streamlit run app.py`
 ### Screenshots
 <img src = "screenshots/Screenshot1.png"/>
-<img src = "screenshots/Screenshot3.png"></img>
+<img src = "screenshots/Screenshot3.png">
+
 ### Video Demo
 
 ### Next Steps
