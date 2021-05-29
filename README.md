@@ -32,9 +32,9 @@ Make sure you have all the dependencies mentioned in requirements.txt
 ### Video Demo
 
 ### Next Steps
-[]Add a Movie Recommendation functionality from IMDB
-[]Improve the UI/UX of the app
-[]Deploy the application
+- [ ] Add Movie Recommendation with IMDB
+- [ ] Deployment of the application
+- [ ] Speech Seniment Analysis
 
 ### Team Members
 1. Vedanth Baliga
