@@ -14,5 +14,22 @@ Music is often a key under estimated factor that can help calm their mind and ch
 
 In this project, we have created a live emotion detection algorithm that can predict the emotions of the person in real time and recommend songs to cheer them up!
 
-### 
+### Inspiration
+
+### Technologies 
+- Casscade Classifiers and Webcam input from OpenCV
+- A Lightweight Face Recognition and Facial Attribute Analysis Framework Deepface for Emotion Recognition
+- Spotify API to fetch songs and playlists base d on emotions
+- App deployed using Streamlit Python Library
+
+### ScreenShots of the Application
+
+### Video Demo
+
+### Team Members
+1. Vedanth Baliga
+2. Aaditya Goel
+3. Prateek Rao 
+
+
 
