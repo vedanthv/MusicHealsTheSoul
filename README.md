@@ -30,7 +30,9 @@ FaceNet, VGG-Face, ArcFace and Dlib overperforms than OpenFace, DeepFace and Dee
 ### How to Run the application:
 Make sure you have all the dependencies mentioned in requirements.txt
 - Go to the terminal and run the command `streamlit run app.py`
-
+### Screenshots
+<img src = "screenshots/Screenshot1.png"/>
+<img src = "screenshots/Screenshot3.png"></img>
 ### Video Demo
 
 ### Next Steps
