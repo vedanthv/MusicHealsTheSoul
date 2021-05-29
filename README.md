@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Music Heals the Soul is a Smart Application that predicts songs from Spotify of a particular genre based on the real time emotions of the user.
+Music Heals the Soul is a Smart Application that recommends songs from Spotify of a particular genre based on the real time emotions of the user.
 
 ### What problems does it solve?
 
