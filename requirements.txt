@@ -1,0 +1,5 @@
+matplotlib==3.3.3
+deepface==0.0.53
+streamlit==0.77.0
+opencv_python==4.5.1.48
+spotipy==2.18.0
