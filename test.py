@@ -1,3 +1,4 @@
+  
 import cv2
 
 def take_input():
@@ -7,7 +8,7 @@ def take_input():
         check, frame = video.read()
         cv2.imshow('cap', frame)
         key = cv2.waitKey(1)
-        if key == ord('q'):
+        if key == ord('C'):
             break
 
     showPic = cv2.imwrite("photo.jpg",frame)
