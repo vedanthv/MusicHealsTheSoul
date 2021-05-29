@@ -37,6 +37,7 @@ Make sure you have all the dependencies mentioned in requirements.txt
 - [ ] Add Movie Recommendation with IMDB
 - [ ] Deployment of the application
 - [ ] Speech Seniment Analysis
+- [ ] UI/UX Design Improvements
 
 ### Team Members
 1. Vedanth Baliga
