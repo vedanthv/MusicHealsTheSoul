@@ -31,6 +31,11 @@ Make sure you have all the dependencies mentioned in requirements.txt
 
 ### Video Demo
 
+### Next Steps
+[]Add a Movie Recommendation functionality from IMDB
+[]Improve the UI/UX of the app
+[]Deploy the application
+
 ### Team Members
 1. Vedanth Baliga
 2. Aaditya Goel
