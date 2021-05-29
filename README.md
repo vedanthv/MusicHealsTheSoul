@@ -29,8 +29,6 @@ One of the greatest qualities of music is the range of emotion in the songs. Eac
 Make sure you have all the dependencies mentioned in requirements.txt
 - Go to the terminal and run the command `streamlit run app.py`
 
-### ScreenShots of the Application
-
 ### Video Demo
 
 ### Team Members
