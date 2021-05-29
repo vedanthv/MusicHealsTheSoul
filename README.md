@@ -36,6 +36,7 @@ Make sure you have all the dependencies mentioned in requirements.txt
 
 ### Video Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJGU6MWG5u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Next Steps
 - [ ] Add Movie Recommendation with IMDB
 - [ ] Deployment of the application
