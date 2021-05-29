@@ -25,6 +25,10 @@ One of the greatest qualities of music is the range of emotion in the songs. Eac
 - Spotify API to fetch songs and playlists base d on emotions
 - App deployed using Streamlit Python Library
 
+### How to Run the application:
+Make sure you have all the dependencies mentioned in requirements.txt
+- Go to the terminal and run the command `streamlit run app.py`
+
 ### ScreenShots of the Application
 
 ### Video Demo
