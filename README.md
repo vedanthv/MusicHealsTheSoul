@@ -1,5 +1,5 @@
 ## Music Heals the Soul - HackOn Hackathon 2021
-<img src = "background.png">
+<img src = "background.png"></img>
 #### Theme : Mental Wellness
 
 ### Introduction
