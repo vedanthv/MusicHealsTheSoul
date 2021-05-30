@@ -35,10 +35,10 @@ Make sure you have all the dependencies mentioned in requirements.txt
 <img src = "screenshots/Screenshot3.png">
 
 ### Video Demo
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=lJGU6MWG5u8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<a href = "https://www.youtube.com/watch?v=lJGU6MWG5u8">Click Here</a> **to watch the Video Demo!**
+
 ### Next Steps
+
 - [ ] Add Movie Recommendation with IMDB
 - [ ] Deployment of the application
 - [ ] Speech Seniment Analysis
