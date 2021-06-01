@@ -43,6 +43,7 @@ Make sure you have all the dependencies mentioned in requirements.txt
 - [ ] Deployment of the application
 - [ ] Speech Seniment Analysis
 - [ ] UI/UX Design Improvements
+- [ ] Improve Model Efficiency
 
 ### Team Members
 1. Vedanth Baliga
